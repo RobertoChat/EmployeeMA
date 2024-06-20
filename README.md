@@ -39,7 +39,7 @@ Um die Anwendung zu starten, führen Sie die main-Methode in der Klasse Employee
 
 Vor dem Start der Anwendung stellen Sie sicher, dass eine MySQL-Datenbank vorhanden ist. Die Konfiguration erfolgt über die Konstanten JDBC_URL, JDBC_USER und JDBC_PASSWORD in der Klasse EmployeeDaoMySQL.
     Java SE Development Kit 8 oder höher
-    MySQL-Datenbank
+    sowie MySQL-Datenbank
 
 **Hinweise**
 
